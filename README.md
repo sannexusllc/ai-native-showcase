@@ -46,7 +46,7 @@ This isn't a weekend experiment. It's a real company, in a regulated industry (h
 
 ## About me
 
-I'm Cleiton Goncalves. My background is in healthcare operations — I worked at AdventHealth, one of the largest health systems in the U.S. I left to build SANNEXUS because I saw how physician credentialing bottlenecks delay patient care, and I believed AI agents could replace the traditional startup model of raising money to hire engineers first.
+I'm Cleiton Goncalves. My background is in healthcare operations — I worked for several of the largest health systems and physician groups in the country, managing over $130M in operating expense budgets. Despite constantly working on improving workflows through PI initiatives, healthcare is plagued with operational inefficiencies — especially when it comes to physician labor distribution and credentialing bottlenecks. These inefficiencies are major contributors to unacceptable levels of delay in patient care. That's why I decided to leave and create SANNEXUS. I believe AI agents in such a heavily regulated industry are going to be the catalyst that gives startup companies the ability to create real solutions without the need to raise millions of dollars in startup capital to hire engineers and SaaS developers. I know where the pain points are, so thank God for AI.
 
 - [LinkedIn](https://linkedin.com/in/cleiton11)
 - [SANNEXUS](https://sannexus.com)
