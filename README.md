@@ -6,7 +6,7 @@ I don't have human engineers. I have AI agents â€” a CTO, CMO, and UX designer â
 
 ## What we've shipped
 
-From first commit to production in under five months:
+From first commit to production in 48 days:
 
 - **549 commits** across the codebase
 - **347 source files** (Next.js, TypeScript, Tailwind)
